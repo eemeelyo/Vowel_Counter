@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to right, gray, orange);
+    background: linear-gradient(to right, black, maroon);
 }
 
 .container {
@@ -77,7 +77,8 @@ button {
 }
 
 button:hover {
-    background-color: maroon;
+    background-color: greenyellow;
+    color: black;
 }
 
 #result {
